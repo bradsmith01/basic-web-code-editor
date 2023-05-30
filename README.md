@@ -3,8 +3,11 @@
 An example of a web based code editor using the Ace Code Editor.
 
 Load the 'index.html' locally.
+
 Feel free to download and modify for your own needs.
+
 The themes are some of the different colour themes available with the Ace Editor.
+
 Also some of the languages are available to change between.
 
 THERE IS NO SAVE FILE OPTION
